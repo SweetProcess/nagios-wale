@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 OPTIND=1
+set -e
 
 warntime='-24hours -5minutes'
 crittime='-30hours'
